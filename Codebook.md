@@ -14,7 +14,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 * `subject` - integer - The ID of the experiment subject
 * `activity` - character - The type of activity that was being performed while wearning the smartphone
 
-## Measurements
+## Measurements (all numeric)
 
 * `Time_Body_Accelerometer_Mean()_X`                               
 * `Time_Body_Accelerometer_Mean()_Y`                               
@@ -96,7 +96,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 * `Frequency_BodyBody_Gyroscope_Jerk_Magnitude_STD()`             
 * `Frequency_BodyBody_Gyroscope_Jerk_Magnitude_MeanFrequency()`
 
-## Activity Labels
+## Activity Labels (all character)
 
 * `WALKING` (`1`): subject was walking during the test
 * `WALKING_UPSTAIRS` (`2`): subject was walking up a staircase during the test
